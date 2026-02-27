@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+pipeline_failed_*.log
+
+# Project specific
+tmp-json/
+.adk/
+agentkit.yaml

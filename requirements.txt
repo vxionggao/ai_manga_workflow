@@ -1,0 +1,10 @@
+python-dotenv
+requests
+veadk
+google-adk
+tos
+mcp
+imageio-ffmpeg
+volcengine-python-sdk
+vikingdb
+agentkit
